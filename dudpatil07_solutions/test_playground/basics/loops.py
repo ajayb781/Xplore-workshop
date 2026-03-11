@@ -1,6 +1,6 @@
 # print all multiples of 5 in [1,100]
 
-for i in range(3,99,4): # start, stop, step , range is [start,stop)
+for i in range(5,101,5): # start, stop, step , range is [start,stop)
     print(i,end=" ")
 
 
