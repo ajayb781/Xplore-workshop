@@ -1,2 +1,2 @@
 # yayy
-"Hello World"(print)
+print("Hello world")
