@@ -5,7 +5,7 @@ while choice =='y' or choice=='Y': # make 'Y' valid too
         # typecast the below 2 to a list
         
         numbers =list(map(int, input("Enter the input numbers separated by spaces: ").split()))
-        operators = input("Enter operators between them: ")
+        operators = input("Enter operators between them: ").split()
 
         # check length matching
 
